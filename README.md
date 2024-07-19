@@ -48,4 +48,8 @@ Useful links:
 
 Go to [this form](https://forms.gle/XAJEgTvKL4tjKh9w8) and add the transformed URLs. Please note that you need to submit both URLs in order to successfully complete the challenge and you need to make sure to add all transformations and optimisations to the final URL so please double check your work before submitting the form
 
-
+## Response
+ 
+- ![crop face and resize](https://res.cloudinary.com/balazs/image/upload/c_crop,g_face,h_400,w_400/photo-1495366691023-cc4eadcc2d7e_eolq2v.webp)
+- ![grey](https://res.cloudinary.com/balazs/image/upload/e_gen_recolor:prompt_the%20bag;to-color_grey/q_auto/f_auto/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3.jpg)
+- ![green](https://res.cloudinary.com/balazs/image/upload/e_gen_recolor:prompt_the%20bag;to-color_green/q_auto/f_auto/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3.jpg)
